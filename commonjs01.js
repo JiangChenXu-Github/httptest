@@ -1,0 +1,8 @@
+const commonjs02 = require('./commonjs02')
+const commonjs03 = require('commonjs03')
+const commonjs04 = require('commonjs04')
+const commonjs05 = require('commonjs05')
+commonjs02.func('wow')
+console.log(commonjs03)
+console.log(commonjs04)
+console.log(commonjs05)
